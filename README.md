@@ -13,7 +13,7 @@ See it live here: [http://www.belgianbeerexplorer.com](http://www.belgianbeerexp
 
 1. Click the Button below to deploy the application on Heroku.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/mdalibec/belgian-beer-explorer)
 
 Your own instance of the application is automatically deployed, and your own Postgres database is populated with sample data.
 
